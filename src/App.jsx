@@ -5,7 +5,7 @@ import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 const App = () => {
     return (
         <>
-            <h1 className="text-center">Welcome To Elevate Buy</h1>
+            <h1 className="text-center">Welcome To Elevate Buy, BBSR</h1>
             <div className="container">
                 <div className="row">
                     <div className="col">
